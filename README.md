@@ -1,6 +1,6 @@
 # TCPDUMP 4.x.y by [The Tcpdump Group](https://www.tcpdump.org/)
 
-**To report a security issue please send an e-mail to security@tcpdump.org.**
+**To report a security issue please send an e-mail tohttps://github.com/the-tcpdump-group/tcpdump/blob/master/doc%2FREADME.aix.md security@tcpdump.org.**
 
 To report bugs and other problems, contribute patches, request a
 feature, provide generic feedback etc please see the
